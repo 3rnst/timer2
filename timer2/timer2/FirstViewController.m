@@ -127,6 +127,10 @@ int currentSplitNumber;
     
 }
 
+- (IBOutlet)isViewSplitsTest
+{
+    return splitTimes;
+}
 
 
 

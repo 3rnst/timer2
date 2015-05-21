@@ -16,6 +16,10 @@
 		3F17F5A51B02370400A70293 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F17F5A41B02370400A70293 /* Images.xcassets */; };
 		3F17F5A81B02370400A70293 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3F17F5A61B02370400A70293 /* LaunchScreen.xib */; };
 		3F17F5B41B02370400A70293 /* timer2Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F17F5B31B02370400A70293 /* timer2Tests.m */; };
+		3FA55BDF1B0E30F9005A18FA /* clock-stopwatch-7.png in Resources */ = {isa = PBXBuildFile; fileRef = 3FA55BDE1B0E30F9005A18FA /* clock-stopwatch-7.png */; };
+		3FA55BE11B0E3151005A18FA /* list-fat-7.png in Resources */ = {isa = PBXBuildFile; fileRef = 3FA55BE01B0E3151005A18FA /* list-fat-7.png */; };
+		3FA55BE31B0E31FF005A18FA /* square-individual-nine-7.png in Resources */ = {isa = PBXBuildFile; fileRef = 3FA55BE21B0E31FF005A18FA /* square-individual-nine-7.png */; };
+		3FA55BE51B0E3276005A18FA /* trophy-7.png in Resources */ = {isa = PBXBuildFile; fileRef = 3FA55BE41B0E3276005A18FA /* trophy-7.png */; };
 		3FF7147D1B0D0EA20084420E /* WebViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3FF7147C1B0D0EA20084420E /* WebViewController.m */; };
 /* End PBXBuildFile section */
 
@@ -47,6 +51,10 @@
 		3F17F5AD1B02370400A70293 /* timer2Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = timer2Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F17F5B21B02370400A70293 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3F17F5B31B02370400A70293 /* timer2Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = timer2Tests.m; sourceTree = "<group>"; };
+		3FA55BDE1B0E30F9005A18FA /* clock-stopwatch-7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "clock-stopwatch-7.png"; sourceTree = "<group>"; };
+		3FA55BE01B0E3151005A18FA /* list-fat-7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "list-fat-7.png"; sourceTree = "<group>"; };
+		3FA55BE21B0E31FF005A18FA /* square-individual-nine-7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "square-individual-nine-7.png"; sourceTree = "<group>"; };
+		3FA55BE41B0E3276005A18FA /* trophy-7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "trophy-7.png"; sourceTree = "<group>"; };
 		3FF7147B1B0D0EA20084420E /* WebViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WebViewController.h; sourceTree = "<group>"; };
 		3FF7147C1B0D0EA20084420E /* WebViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WebViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -97,6 +105,7 @@
 				3F17F59E1B02370400A70293 /* SecondViewController.h */,
 				3F17F59F1B02370400A70293 /* SecondViewController.m */,
 				3F17F5A11B02370400A70293 /* Main.storyboard */,
+				3FA55BE41B0E3276005A18FA /* trophy-7.png */,
 				3FF7147B1B0D0EA20084420E /* WebViewController.h */,
 				3FF7147C1B0D0EA20084420E /* WebViewController.m */,
 				3F0AB51E1B0CF1AC00E13BA4 /* SplitsTableViewController.h */,
@@ -111,6 +120,9 @@
 		3F17F5941B02370400A70293 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				3FA55BE21B0E31FF005A18FA /* square-individual-nine-7.png */,
+				3FA55BE01B0E3151005A18FA /* list-fat-7.png */,
+				3FA55BDE1B0E30F9005A18FA /* clock-stopwatch-7.png */,
 				3F17F5951B02370400A70293 /* Info.plist */,
 				3F17F5961B02370400A70293 /* main.m */,
 			);
@@ -215,7 +227,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				3F17F5A31B02370400A70293 /* Main.storyboard in Resources */,
+				3FA55BE51B0E3276005A18FA /* trophy-7.png in Resources */,
+				3FA55BE31B0E31FF005A18FA /* square-individual-nine-7.png in Resources */,
 				3F17F5A81B02370400A70293 /* LaunchScreen.xib in Resources */,
+				3FA55BDF1B0E30F9005A18FA /* clock-stopwatch-7.png in Resources */,
+				3FA55BE11B0E3151005A18FA /* list-fat-7.png in Resources */,
 				3F17F5A51B02370400A70293 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

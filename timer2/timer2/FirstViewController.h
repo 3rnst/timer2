@@ -8,6 +8,8 @@
 
 #import <UIKit/UIKit.h>
 
+#import "SplitsTableViewController.h"
+
 NSArray *splitTimesSetup;
 NSMutableArray *splitTimes;
 NSString *currentSplitString;
@@ -30,6 +32,7 @@ int currentSplitNumber;
 - (IBAction)saveSplitTimes:(id)sender;
 
 
+@property (strong, nonatomic) IBOutlet UITableView *viewSplitsTest;
 
 
 @property (strong, nonatomic) IBOutlet UITableViewCell *viewSplit1;
